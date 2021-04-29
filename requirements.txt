@@ -1,0 +1,5 @@
+pynput==1.7.3
+requests==2.25.1
+psutil==5.8.0
+beautifulsoup4==4.9.3
+PyQt5==5.15.4
